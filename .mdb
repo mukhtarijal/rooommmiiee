@@ -1,0 +1,10 @@
+{
+  "projectName": "roomiw",
+  "meta": {
+    "type": "backend"
+  },
+  "backend": {
+    "platform": "php-laravel"
+  },
+  "hash": "13f10c74"
+}
