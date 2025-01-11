@@ -12,7 +12,7 @@
             <h1 class="text-5xl md:text-6xl font-bold mb-6 leading-tight tracking-tight">
                 Hai, {{ auth()->user()->name }}!
                 <span class="block text-2xl md:text-3xl font-normal mt-4 text-white/90">
-                    Mau cari kos dimana hari ini?
+                    Mau cari kos dimana hari besok?
                 </span>
             </h1>
         @else
